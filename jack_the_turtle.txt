@@ -1,0 +1,287 @@
+jack the turtle
+9 level
+damage: 49
+HP:83
+AP:21(+2ac shield, base ac 17)
+Str 16(+3)
+Dex 8(-1)
+Con 12(+1)
+Int 10(+0)
+Wis 17(+3)
+Cha 13(+0)(+1 from ring)
+
+62,190
+
+Fighter 3
+Cleric 6
+
+Proficiency +3
+Skills:
+-Persuasion
+-Medicine
+-Survival
+
+-Radiant Lights:3
+-Radiant Dawns:2/1
+-Turn Undead:1
+-Improved Flare:used to negate attacks against party members 30feet
+
+
+
+Spell-------------------------------------------------------------------------------------
+
+-Cantrips:
+	-Sacred Flame
+	-Resistance
+	-Toll the dead
+	-Spare the dying
+
+-Cleric 1:4/2
+	-Command(v)
+	-Guiding Bolt(v,s)
+	-Shield of Faith(v,s,m)
+	-Detect Magic(v,s)
+	/burninghands
+	/faerie fire
+
+-Cleric 2:3
+	-Find Traps(v,s)
+	-Locate Object(v,s,m)
+	-Silence(v,s)
+	/Scorching ray
+	/Flaming sphere
+
+-Cleric 3:3
+	-CureWounds(v,s)
+	-HoldPerson(v,s,m)
+	-Dispel Magic(v,s)
+	/Daylight
+	/Fireball
+
+------------------------------------------------------------------------------------------
+Spells------------------------------------------------------------------------------------
+
+Cantrips----------------------------------------------------------------------------------
+
+ Guidance Divination cantrip
+Casting time: 	1 action
+Range: 	Touch
+Components: 	V, S
+Duration: 	Concentration, up to 1 minute
+
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends. 
+
+ Sacred Flame Evocation cantrip
+Casting time: 	1 action
+Range: 	60 feet
+Components: 	V, S
+Duration: 	Instantaneous
+
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
+
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+
+
+
+Cleric 1----------------------------------------------------------------------------------
+ 
+Guiding Bolt 1st-level evocation
+Casting time: 	1 action
+Range: 	120 feet
+Components: 	V, S
+Duration: 	1 round
+
+A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+ Shield of Faith 1st-level abjuration
+Casting time: 	1 bonus action
+Range: 	60 feet
+Components: 	V, S, M (a small parchment with a bit of holy text written on it)
+Duration: 	Concentration, up to 10 minutes
+
+A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration. 
+
+Cleric 2----------------------------------------------------------------------------------
+
+ Scorching Ray 2nd-level evocation
+Casting time: 	1 action
+Range: 	120 feet
+Components: 	V, S
+Duration: 	Instantaneous
+
+You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.
+
+Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd. 
+
+------------------------------------------------------------------------------------------
+Cleric------------------------------------------------------------------------------------
+
+
+
+Spellcasting Ability
+
+Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
+
+Spell attack modifier = your proficiency bonus + your Wisdom modifier
+
+Ritual Casting
+
+You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+Spellcasting Focus
+
+You can use a holy symbol (found in chapter 5) as a spellcasting focus for your cleric spells.
+
+ Turn Undead
+
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+
+Channel Divinity (1/rest)
+
+At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+
+When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+
+Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+
+At 2nd level, you gain a feature from your Divine Domain.
+Channel Divinity: Radiance of the Dawn
+
+Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.
+
+As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.
+
+
+------------------------------------------------------------------------------------------
+Items-------------------------------------------------------------------------------------
+
+368lp 8gp 4sp
+
+-2draft horses with 1 cart
+
+Cargo:
+
+
+-Fail of Pain 1d10+3d6 psychic
+
+-Axe of the huntsman(2lbs)
+	-1d6+1(slashing)
+	-2d6+1(werewolf/lycanthrope)
+	-returning, silver, +1 attack rolls
+
+-Large Metal Shield(+2AC_1/2 damage_lighting_)
+
+-Spector of command
+	-DC12 cha check
+
+-Bard's soul ring
+	-+2cha
+	-get perform as skill
+	-curse DC12 cha save
+
+-PSeye lantern(5lbs)
+
+-Handy Hover sack(+100lbs)
+
+-Switch assassin schimitars
+-Bag of Caltraps(20)
+-10 pots
+-Climbers kit(12lbs)
+-Locate Beer Scroll(locate item)
+-Fix Cunts scroll(cure wounds)
+-Hearthstone
+-Scorching ray scroll
+-2 magic circle scrolls
+-Greg's crystal: allows you to talk to old greg.
+-Silver Mirror
+-Poncho 3lbs
+-Climbing Boots 2lbs
+-2 Alchemist fire
+-2 Potion of Firebreathing
+-2 cure wounds scrolls
+-2 potions of healing
+-*Ring of Acid Resistance
+-bag of 4 magic beans
+-Bedroll 7lbs
+-Messkit 1lb
+-Tinderbox 1lb
+-50 foot rope 10lbs
+-Lapis Lazuli
+-Tourquise
+-2 cut sapphire
+-cut emerald
+-2 cut ruby
+-2 logs
+-2 wedges of cheese
+-10 elfo pbj 1d8 healing
+-9 cans of foster beer
+	-1d8 healing
+-Potion of Climbing
+-3 vials of holy water
+-1 wedge of cheese
+-50lbs wolf meat
+-waterskin 10/10 x3
+-waterskin 3/5 x3
+-Displacer Beast head
+-Displacer Beast skin
+-Book of Plant(+1 identify plants)
+
+
+
+
+------------------------------------------------------------------------------------------
+Notes-------------------------------------------------------------------------------------
+
+post in breamont expert farmer needed visist Titan manor will pay in food and gold
+
+port stuble
+
+---Titles---
+Hero of Braemont
+Hero of Red Teeth
+
+------------------------------------------------------------------------------------------
+Kangoroo Army-----------------------------------------------------------------------------
+
+Manor 6 acres
+-pantry/water
+chicken coop
+2 huts
+10 axes
+3 yolks
+3 tills
+138 rations
+Storage
+	-strawberry seeds 1lbs------1acre
+	-grape seeds 1lbs     ------1acre
+	-potatoes 1lbs 		  ------1acre
+	-carrots 1lb          ------1acre
+	-beets 1lb            ------1acre
+	-weed seeds 3lbs
+
+13 roos
+	-7 Males
+	-6 Females
+	-10 Breamont knights
+
+1 female farmer 
+Shelia Farmer farm 5 acres
+1 male mercantile
+
+4 day patrols
+6 day patrols
+
+Sensei farmer Joe Hamilton 3gp per month train Shelia Farmer
+
+
+
