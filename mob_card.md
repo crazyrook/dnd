@@ -1,4 +1,4 @@
-## Name, Class lv5
+## Name, Class lv**N**,
 HP: **N**  (**N**d**N**)  
 PB+**N**  
 Weapon Proficienies
