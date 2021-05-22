@@ -11,20 +11,32 @@ Weapon Proficienies
 6.  CHA **Z**(+ **Z**)
   
 ####AC:0
+
 modifier source +**Z**
-####Saving Throws: 
+
+####Saving Throws:
+ 
 Attribute
-####Attack roll: 
+
+####Attack roll:
+ 
 Attack roll modifiers,
-####Weapon 
+
+####Weapon
+ 
  **Z** (cp,sp,gp) **Z**d**Z** damage type      **Z** lb.   
 Properties,    
+
 #####Ability Name
 
 * Ability description.
 
-#####Has [class] spells:  
+#####Has [class] spells:
+  
 ####Cantrips: 
+
 Spell names,  
+
 ####1st level:*(number of slots)
+
 Prepared Spell names,
