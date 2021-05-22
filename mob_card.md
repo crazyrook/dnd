@@ -9,7 +9,8 @@ Weapon Proficienies
 4.  INT **Z**(+ **Z**) 
 5.  WIS **Z**(- **Z**) 
 6.  CHA **Z**(+ **Z**)
-  
+
+
 ##AC:0
 
 modifier source +**Z**
