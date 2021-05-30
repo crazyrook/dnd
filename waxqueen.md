@@ -16,8 +16,8 @@ Race: Human
 * Skills: Deception, Stealth, Acrobatics, Sleight of Hand
 * Tools: Thieve's kit, Dice
 * Saving throws: Wis Cha
-* Languages: Common, Celestial
-* Armor: light armor, medium armor, shields
+* Languages: Common
+* Armor: light armor
 * Weapons: simple, martial
 * Background: Criminal
 
